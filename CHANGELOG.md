@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/liuyanjun0416/worker-loader/compare/v2.0.1...v1.1.0) (2018-12-13)
+
+
+### Features
+
+* change es6 module export ([6696364](https://github.com/liuyanjun0416/worker-loader/commit/6696364))
+
+
+
 <a name="2.0.1"></a>
 ## [2.0.1](https://github.com/webpack-contrib/worker-loader/compare/v1.1.1...v2.0.1) (2018-12-13)
 

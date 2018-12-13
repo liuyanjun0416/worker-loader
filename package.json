@@ -1,6 +1,6 @@
 {
   "name": "worker-loader-es6",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "worker loader module for webpack",
   "license": "MIT",
   "repository": "liuyanjun0416/worker-loader",
